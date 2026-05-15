@@ -129,7 +129,7 @@
 
 ```bash
 # 克隆模板
-git clone https://github.com/你的用户名/paper-agent.git 我的论文
+git clone https://github.com/lsqkk/paper-agent.git 我的论文
 
 # 进入目录
 cd 我的论文
