@@ -1,0 +1,63 @@
+# ============================================
+# Paper Agent - Auto-generated artifacts
+# ============================================
+
+# Stage 1: Outline
+初步大纲.md
+初版大纲.md
+
+# Stage 2: Research collection
+collected_info.md
+collected_info_*.md
+
+# Stage 3: Raw report drafts
+report.md
+report_revised.md
+
+# Stage 4: Image assets
+img/
+img.md
+
+# Stage 5: Review
+review.md
+review_*.md
+
+# Stage 6: Export output
+*.docx
+*.pdf
+
+# SVG→PNG conversion artifacts
+convert_svgs_hq.py
+convert_svgs.py
+img*.png
+img${name}.png
+
+# ============================================
+# Editor / IDE
+# ============================================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ============================================
+# Claude local config (per-machine permissions)
+# ============================================
+.claude/settings.local.json
+.claude/agents/
+.claude/rules/
+.claude/tasks/
+.claude/memory/
+.claude/scheduled_tasks.json
